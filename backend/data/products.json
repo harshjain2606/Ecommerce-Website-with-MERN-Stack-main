@@ -1,0 +1,376 @@
+[
+    {
+        "_id":  "65bf66ecc62a52992897ad69",
+        "name": "Bacca Bucci Men's Sneaker",
+        "price": 700,
+        "description": "Dicy is a popular footwear brand in India known for its trendy designs and high-quality products. With a focus on comfort and style, Dicy offers a wide range of footwear options for men and women, including sandals, loafers, sneakers, and boots. The brand is committed to using durable materials and advanced technologies to ensure their footwear lasts longer and provides maximum comfort to the wearer. ",
+        "rating": 0,
+        "images": [
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p1-1.jpg",
+        "_id":  "65bf66ecc62a52992897ad6a"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p1-2.jpg",
+        "_id":  "65bf66ecc62a52992897ad6b"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p1-3.jpg",
+        "_id":  "65bf66ecc62a52992897ad6c"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p1-4.jpg",
+        "_id":  "65bf66ecc62a52992897ad6d"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p1-5.jpg",
+        "_id":  "65bf66ecc62a52992897ad6e"
+    
+        }
+    ],
+    "category": "Shoe",
+    "seller": "Lokesh",
+    "stock": 5,
+    "numberOfReviews": 0,
+    "user": "65bf6406609e807c7f6fb1cc",
+    
+    
+    "reviews": [],
+    "__v": 0
+    },
+    {
+    "_id": "65bf6ade129168b446ceebdd",
+    
+    "name": "Regular T-Shirt",
+    "price": 734,
+    "description": "The Model (Height 5'10\") Is Wearing A Size S; Homegrown Indian Brand - One-Stop-Shop For Official Merch Of All Your Favorite Superheroes, Films, Tv Shows And Cartoons.; Material: 100% Cotton (Bio-Washed)\r\nSize Guide: Xxs(34\"), Xs(36\"), S(38\"), M(40\"), L(42\"), Xl(44\") & Xxl(46\").Standard Sizing: We Follow U.S. And Eu Standards And Our Sizes Do Not Vary By More Than +/- 0.5 Inches.",
+    "rating": 0,
+    "images": [
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p2-1.jpg",
+        "_id":  "65bf6ade129168b446ceebde"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p2-2.jpg",
+        "_id":  "65bf6ade129168b446ceebdf"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p2-3.jpg",
+        "_id":  "65bf6ade129168b446ceebe0"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p2-4.jpg",
+        "_id":  "65bf6ade129168b446ceebe1"
+    
+        }
+    ],
+    "category": "T-shirt",
+    "seller": "Lokesh",
+    "stock": 4,
+    "numberOfReviews": 0,
+    "user": "65bf6406609e807c7f6fb1cc",
+    
+    
+    "reviews": [],
+    "__v": 0
+    },
+    {
+    "_id": "65bf6d933671360c72473b49",
+    
+    "name": "TIMEWEAR Analogue Watch",
+    "price": 547,
+    "description": "Watches are more than just technology. They're worn for their looks, but they also have a practical function. The right watch can convey your position in the world by acting as a personal statement. Choose the right watch, and you will often wear it for decades. Today, watches are more than just timepieces, but fashion accessories. ",
+    "rating": 0,
+    "images": [
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p3-1.jpg",
+        "_id":  "65bf6d933671360c72473b4a"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p3-2.jpg",
+        "_id":  "65bf6d933671360c72473b4b"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p3-3.jpg",
+        "_id":  "65bf6d933671360c72473b4c"
+    
+        }
+    ],
+    "category": "Watch",
+    "seller": "Lakshai Kumar",
+    "stock": 8,
+    "numberOfReviews": 0,
+    "user": "65bf6406609e807c7f6fb1cc",
+    
+    
+    "reviews": [],
+    "__v": 0
+    },
+    {
+    "_id": "65bf6e8c65d1017d437747d0",
+    
+    "name": "Wooden Pooja Mandir for Home",
+    "price": 890,
+    "description": "A graceful pooja mandir for home and office will definitely uplift the positive vibrations\r\nContemporary design of temple for home can be wall mounted and can also be kept on table or floor\r\nThe modern craftsmanship of puja stand in wooden teak texture will always be talked about",
+    "rating": 0,
+    "images": [
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p4-1.jpg",
+        "_id":  "65bf6e8c65d1017d437747d1"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p4-2.jpg",
+        "_id":  "65bf6e8c65d1017d437747d2"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p4-3.jpg",
+        "_id":  "65bf6e8c65d1017d437747d3"
+    
+        }
+    ],
+    "category": "Wooden Temple",
+    "seller": "Lakshai",
+    "stock": 5,
+    "numberOfReviews": 0,
+    "user": "65bf6406609e807c7f6fb1cc",
+    
+    
+    "reviews": [],
+    "__v": 0
+    },
+    {
+        "_id":  "65bf6fddf296b6be1473198f",
+        
+        "name": "Leriya Men's Shirt",
+        "price": 900,
+        "description": "Vida Loca is India's fashion powerhouse with an elegant bouquet of fashion trends and affordable luxury. Vida Loca is a leading brand of Acchajee Online Shopping Pvt Ltd.\r\nWe at Vida Loca have now expanded our horizon and ventured into our own garment manufacturing factory under the brand Vida Loca, with In-house capabilities in design, manufacturing, and technology.",
+        "rating": 0,
+        "images": [
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/p5-1.jpg",
+                "_id": "65bf6fddf296b6be14731990"
+            
+            },
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/p5-3.jpg",
+                "_id":  "65bf6fddf296b6be14731991"
+            
+            },
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/p5-2.jpg",
+                "_id":  "65bf6fddf296b6be14731992"
+            
+            }
+            ],
+            "category": "Shirt",
+            "seller": "Lokesh",
+            "stock": 4,
+            "numberOfReviews": 0,
+            "user":  "65bf6406609e807c7f6fb1cc",
+            
+            
+            "reviews": [],
+            "__v": 0
+        },
+        {
+            "_id":  "65bf70b466d8f8e5deb8cc7b",
+            
+            "name": "J B Fashion Track Pant",
+            "price": 549,
+            "description": "Track pant for men || track pants || Full Elastic Jogger Track Pant",
+            "rating": 0,
+            "images": [
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/p6-1.jpg",
+                "_id":  "65bf70ca66d8f8e5deb8ccc1"
+            
+            },
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/p6-2.jpg",
+                "_id":  "65bf70ca66d8f8e5deb8ccc2"
+            
+            },
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/p6-4.jpg",
+                "_id":  "65bf70ca66d8f8e5deb8ccc3"
+            
+            },
+            {
+                "image": "http://127.0.0.1:8000/uploads/product/p6-3.jpg",
+                "_id":  "65bf70ca66d8f8e5deb8ccc4"
+            
+            }
+            ],
+            "category": "Pant",
+            "seller": "Lokesh",
+            "stock": 3,
+            "numberOfReviews": 0,
+            "user":  "65bf6406609e807c7f6fb1cc",
+            
+            
+            "reviews": [],
+            "__v": 0
+        },
+       {
+        "_id":  "65bf71e766d8f8e5deb8cd00",
+        
+        "name": "DHRUVI TRENDZ Silk Saree",
+        "price": 899,
+        "description": "Explore the collection of beautifully designed Saree from DHRUVI TRENDZ. Saree Comes with an Unstitched Blouse piece, which is attached with the end of the saree only. Saree is an outfit that describes the essence of a woman when it comes to adorning an ethnic outfit for a casual or festive occasion.\r\n\r\n",
+        "rating": 0,
+        "images": [
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p7-1.jpg",
+        "_id":  "65bf71e766d8f8e5deb8cd01"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p7-4.jpg",
+        "_id":  "65bf71e766d8f8e5deb8cd02"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p7-2.jpg",
+        "_id":  "65bf71e766d8f8e5deb8cd03"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p7-3.jpg",
+        "_id":  "65bf71e766d8f8e5deb8cd04"
+    
+        }
+    ],
+    "category": "Sarees",
+    "seller": "Theeba",
+    "stock": 3,
+    "numberOfReviews": 0,
+    "user": "65bf6406609e807c7f6fb1cc",
+    
+    
+    "reviews": [],
+    "__v": 0
+    },
+    {
+    "_id": "65bf765febfa3b937eaef13b",
+    
+    "name": "Europa Men's Running Shoes",
+    "price": 720,
+    "description": "Product Dimensions ‏ : ‎ 28 x 10.55 x 12 cm; 930 Grams\r\nDate First Available ‏ : ‎ 13 November 2021\r\nManufacturer ‏ : ‎ Bacca Bucci Fashions Private Limited",
+    "rating": 0,
+    "images": [
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p8-1.jpg",
+        "_id":  "65bf765febfa3b937eaef13c"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p8-2.jpg",
+        "_id":  "65bf765febfa3b937eaef13d"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p8-3.jpg",
+        "_id":  "65bf765febfa3b937eaef13e"
+    
+        }
+    ],
+    "category": "Shoe",
+    "seller": "Lokesh",
+    "stock": 3,
+    "numberOfReviews": 0,
+    "user": "65bf6406609e807c7f6fb1cc",
+    
+    
+    "reviews": [],
+    "__v": 0
+    },
+    {
+        "_id":  "65bfab63eb31c578fc0247e3",
+        
+        "name": "SPARX Mens Shoes",
+        "price": 999,
+        "description": "Marking a place of premium on tradition and making each piece stylish, beautiful and elegant. We give the possibility to combine the flexibility of tradition and more advanced modern products which last for years.",
+        "rating": 0,
+        "images": [
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p9-1.jpg",
+        "_id":  "65bfab63eb31c578fc0247e4"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p9-3.jpg",
+        "_id":  "65bfab63eb31c578fc0247e5"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p9-2.jpg",
+        "_id":  "65bfab63eb31c578fc0247e6"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p9-4.jpg",
+        "_id":  "65bfab63eb31c578fc0247e7"
+    
+        }
+    ],
+    "category": "Shoe",
+    "seller": "Poovalagan",
+    "stock": 4,
+    "numberOfReviews": 0,
+    "user": "65bf6406609e807c7f6fb1cc",
+    
+    
+    "reviews": [],
+    "__v": 0
+    },
+    {
+        "_id":  "65bfad66825fb5f4b7dd7ced",
+        
+        "name": "Lymio Casual Shirt",
+        "price": 699,
+        "description": "Made with premium materials our range of shirts offers the perfect balance of comfort, quality and style.",
+        "rating": 0,
+        "images": [
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p10-1.jpg",
+        "_id":  "65bfad66825fb5f4b7dd7cee"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p10-3.jpg",
+        "_id":  "65bfad66825fb5f4b7dd7cef"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p10-4.jpg",
+        "_id":  "65bfad66825fb5f4b7dd7cf0"
+    
+        },
+        {
+        "image": "http://127.0.0.1:8000/uploads/product/p10-2.jpg",
+        "_id":  "65bfad66825fb5f4b7dd7cf1"
+    
+        }
+    ],
+    "category": "Shirt",
+    "seller": "Lokesh",
+    "stock": 4,
+    "numberOfReviews": 0,
+    "user": "65bf6406609e807c7f6fb1cc",
+    
+    
+    "reviews": [],
+    "__v": 0
+    }
+]
